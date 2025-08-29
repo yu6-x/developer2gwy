@@ -18,7 +18,7 @@
 **D2G项目**：<p align="center"> 🦩 [项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | 🦉 [项目更新周报](https://www.gongkaoshequ.com/search?keyword=D2G%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5) | 🕊️ [项目必看](#-项目必看) | 🐝 [正文目录](#-正文目录) | 🤙 [联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)</p>
 
 ---
-**公告：**
+**公告：**v几号放假附近居民
 
 今年开年，团队因本职工作的原因，断更4个多月。负责项目日常维护的李萍，岗位出现调动，加上家庭原因，迟迟没有更新，微信好友请求也暂放一遍，向大家深表歉意。但这期间，我们并没有闲着，再一次的梳理了项目文档以及初心目标，将对项目慢慢进行重组更新，具体如下：
 
